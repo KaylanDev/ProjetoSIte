@@ -1,0 +1,3 @@
+[submodule "APIMOTOS"]
+	path = APIMOTOS
+	url = git@github.com:KaylanDev/APIMOTOS.git
